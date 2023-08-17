@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+label{
+	color : #244d16 ;
+}
+input{
+	background : #e3e1e1;
+}
+
+select{
+	background : #e3e1e1
+}
+form{
+	background : #d2d6b8;
+}
+button{
+ border:0;
+	background:#e7e7e7;
+	color:#244d16;
+	padding:1% 10%  ;
+}
+#submit{
+	text-align:center;
+}
