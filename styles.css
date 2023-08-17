@@ -16,9 +16,16 @@ form{
 button{
  border:0;
 	background:#e7e7e7;
-	color:#244d16;
+	color:#244d16;;
 	padding:1% 10%  ;
+}
+button:hover{
+	color:#e7e7e7;
+	background:#244d16;
 }
 #submit{
 	text-align:center;
+}
+#form{
+	border:2;
 }
